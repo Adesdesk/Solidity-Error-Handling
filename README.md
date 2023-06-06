@@ -34,10 +34,10 @@ Ensure that the smart contract file is named with a ".sol" file extension
 
 ## Author(s)
 
-Contributor's names and contact info
+Contributor's name and contact info
 
-Adeola David Adelakun
-adesdesk@outlook.com
+Name: Adeola David Adelakun
+Email: adesdesk@outlook.com
 
 
 ## License
